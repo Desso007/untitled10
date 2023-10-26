@@ -5,7 +5,7 @@ import org.jetbrains.annotations.NotNull;
 import java.util.Random;
 import java.util.Scanner;
 
-public class project1 {
+public class Project1 {
     public static void main(String[] args) {
         Dictionary dictionary = new Dictionary() {
             @Override
